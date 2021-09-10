@@ -1,0 +1,14 @@
+com\dahelka\gbh\dao\IPageDao.class
+com\dahelka\gbh\config\AppConfig.class
+com\dahelka\gbh\domain\TextFormatter.class
+com\dahelka\gbh\service\PageFacadeREST.class
+com\dahelka\gbh\dao\IBookDao.class
+com\dahelka\gbh\service\BookFacadeREST.class
+com\dahelka\gbh\config\resource\Version.class
+com\dahelka\gbh\service\AbstractFacade.class
+com\dahelka\gbh\domain\EFormatType.class
+com\dahelka\gbh\domain\EFormatType$1.class
+com\dahelka\gbh\entity\Book.class
+com\dahelka\gbh\service\IBookService.class
+com\dahelka\gbh\domain\EFormatType$2.class
+com\dahelka\gbh\entity\Page.class
